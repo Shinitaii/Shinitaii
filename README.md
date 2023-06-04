@@ -1,7 +1,7 @@
 <div>
   <h1 align="center">Welcome to my profile!</h1>
   <p align="center">
-    I am an aspiring software developer and loves to learn and gain experience when it comes to programming!
+    I am an aspiring software developer who loves to learn and gain experience when it comes to programming!
   </p>
 </div>
 
