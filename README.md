@@ -4,10 +4,10 @@
     A computer science student based in the Philippines, aspires to be a software engineer.
   </p>
   <p align="center">
-    I currently focus on web development, and took game development as a hobby.
+    I currently focus on web development and mobile development, even took game development as a hobby.
   </p>
   <p align="center">
-    My proficient languages are <strong><u>Java</u></strong>, <strong><u>C#</u></strong>, and <strong><u>JavaScript</u></strong>.
+    My proficient languages are <strong><u>Java</u></strong>, <strong><u>Dart</u></strong>, <strong><u>C#</u></strong>, and <strong><u>JavaScript</u></strong>.
   </p>
 </div>
 
