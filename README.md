@@ -1,56 +1,57 @@
-<div>
-  <h1 align="start">Welcome to my profile!</h1>
-  <p align="center">
-    A computer science student based in the Philippines, aspires to be a software engineer.
-  </p>
-  <p align="center">
-    I currently focus on web development and mobile development, even took game development as a hobby.
-  </p>
-  <p align="center">
-    My proficient languages are <strong><u>Java</u></strong>, <strong><u>Dart</u></strong>, <strong><u>C#</u></strong>, and <strong><u>JavaScript</u></strong>.
-  </p>
-</div>
+<h1 align="center">Shinitaii — Software Developer</h1>
+<p align="center">
+  CS student from the Philippines passionate about backend, mobile, and game development.<br/>
+  Clean code. Scalable systems. Intuitive experiences.
+</p>
 
 <div align="center">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Shinitaii&hide=prs,issues&include_all_commits=true&count_private=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shinitaii&theme=dracula&hide_border=false&&layout=compact"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Shinitaii&show_icons=true&count_private=true&theme=dracula&hide=issues&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shinitaii&layout=compact&theme=dracula&hide_border=true" />
 </div>
 
-<h2 align="center">Languages</h2>
-<div align="center" valign="top">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
-</div>
-<br>
-<h2 align="center">Frameworks</h2>
-<div align="center" valign="top">
-  <img align="center" alt="Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Next.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-</div>
-<br>
-<h2 align="center">Engines</h2>
-<div align="center" valign="top">
-  <img align="center" alt="Unity" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
-  <img align="center" alt="Godot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg">
-</div>
-<h2 align="center">Databases</h2>
-<div align="center" valign="top">
-  <img align="center" alt="SQL Developer" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqldeveloper/sqldeveloper-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg">
-</div>
-<h2 align="center">Tools</h2>
-<div align="center" valign="top">
-  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="VS Code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Android Studio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg">
-  <img align="center" alt="Postman" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
-</div>
+---
+
+## 🧰 Tech Stack
+
+<details>
+<summary><b>📝 Languages</b></summary>
+<br/>
+
+<table> <tr align="center"> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30"><br/>Java</td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30"><br/>C#</td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"><br/>JavaScript</td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30"><br/>TypeScript</td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30"><br/>Dart</td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"><br/>Python</td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"><br/>HTML</td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"><br/>CSS</td> </tr> </table>
+</details>
+
+
+<details>
+<summary><b>🗄️ Databases</b></summary>
+<br/>
+<table> <tr align="center"> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"><br/>MySQL</td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30"><br/>PostgreSQL</td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqldeveloper/sqldeveloper-original.svg" height="30"><br/>SQL Developer</td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30"><br/>MongoDB</td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="30"><br/>Firebase</td> </tr> </table>
+</details>
+
+<details>
+<summary><b>🌐 Web Frameworks</b></summary>
+<br/>
+<table> <tr align="center"> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30"><br/>Express</td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"><br/>React</td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30"><br/>Next.js</td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="30"><br/>Svelte</td> </tr> </table>
+</details>
+
+<details>
+<summary><b>📱 Mobile Frameworks</b></summary>
+<br/>
+<table> <tr align="center"> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30"><br/>Flutter</td> </tr> </table>
+</details>
+
+<details>
+<summary><b>🎮 Game Engines</b></summary>
+<br/>
+<table> <tr align="center"> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30"><br/>Unity</td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="30"><br/>Godot</td> </tr> </table>
+</details>
+
+<details>
+<summary><b>🔧 Tools & Utilities</b></summary>
+<br/>
+<table> <tr align="center"> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30"><br/>Docker</td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30"><br/>Node.js</td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30"><br/>npm</td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="30"><br/>Composer</td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30"><br/>Git</td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="30"><br/>Postman</td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30"><br/>VS Code</td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30"><br/>Android Studio</td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30"><br/>IntelliJ</td> </tr> </table>
+</details>
+
+
+
+
+
