@@ -41,6 +41,7 @@
             <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqldeveloper/sqldeveloper-original.svg" height="30"><br />SQL Developer</td>
             <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30"><br />MongoDB</td>
             <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="30"><br />Firebase</td>
+            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="30"><br/>Supabase</td>
         </tr>
     </table>
 </details>
