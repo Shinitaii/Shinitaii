@@ -42,6 +42,7 @@
             <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30"><br />MongoDB</td>
             <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="30"><br />Firebase</td>
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="30"><br/>Supabase</td>
+            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30"><br/>Redis</td>
         </tr>
     </table>
 </details>
@@ -57,6 +58,7 @@
             <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="30"><br/>Svelte</td>
             <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="30"><br/>CodeIgniter</td>
             <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30"><br/>Spring Boot</td>
+            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30"><br/>Flask</td>
         </tr>
     </table>
 </details>
@@ -83,6 +85,16 @@
 </details>
 
 <details>
+    <summary><b>🤖 Machine Learning</b></summary>
+    <br />
+    <table>
+        <tr align="center">
+            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" /><br/>PyTorch</td>
+        </tr>
+    </table>
+</details>
+
+<details>
     <summary><b>🔧 Tools & Utilities</b></summary>
     <br />
     <table>
@@ -98,6 +110,8 @@
             <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30"><br/>IntelliJ</td>
             <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30"><br/>Visual Studio</td>
             <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="30"><br/>Maven</td>
+            <td><img src="https://img.shields.io/badge/Dev%20Tunnel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" height="30"><br/>Dev Tunnel</td>
+            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30"><br/>Jupyter</td>
         </tr>
     </table>
 </details>
