@@ -42,11 +42,15 @@ Automated tenant record tracking and utility bill calculation system. Built to s
 
 <table align="center">
   <tr>
-    <td align="center" colspan="3"><b>Languages</b></td>
+    <td align="center" colspan="2"><b>Programming Languages</b></td>
+    <td align="center"><b>Operating Systems</b></td>
   </tr>
   <tr>
-    <td colspan="3">
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,python" />
+    <td align="center" colspan="2">
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,python,php" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=windows,linux" />
     </td>
   </tr>
   <tr>
@@ -55,13 +59,13 @@ Automated tenant record tracking and utility bill calculation system. Built to s
     <td align="center"><b>Databases</b></td>
   </tr>
   <tr>
-    <td>
+    <td align="center">
       <img src="https://skillicons.dev/icons?i=nextjs,svelte,flutter,tailwind" />
     </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,flask,spring" />
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,flask,spring,laravel" />
     </td>
-    <td>
+    <td align="center">
       <img src="https://skillicons.dev/icons?i=firebase,mongodb,redis,postgres,mysql" />
     </td>
   </tr>
@@ -71,14 +75,30 @@ Automated tenant record tracking and utility bill calculation system. Built to s
     <td align="center"><b>Machine Learning</b></td>
   </tr>
   <tr>
-    <td>
+    <td align="center">
       <img src="https://skillicons.dev/icons?i=aws,gcp" />
     </td>
-    <td>
+    <td align="center">
       <img src="https://skillicons.dev/icons?i=docker,githubactions" />
     </td>
-    <td>
+    <td align="center">
       <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Testing</b></td>
+    <td align="center"><b>Game Engines</b></td>
+    <td align="center"><b>Version Control</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=jest,postman" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=godot,unity" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git,gitlab" />
     </td>
   </tr>
 </table>
