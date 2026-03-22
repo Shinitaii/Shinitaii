@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4285F4&center=true&vCenter=true&width=550&lines=Backend+Engineer+%26+ML+Builder;Thesis%3A+Mold+Detection+AI;Scalable+Systems+%26+Cloud" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Degree-BS_Computer_Science-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Focus-Backend_%26_ML_Systems-green?style=flat-square" />
   <img src="https://img.shields.io/badge/Status-Thesis_in_Progress-orange?style=flat-square" />
@@ -15,7 +11,7 @@ A graduating CS student focused on scalable backend systems, and ML pipelines.
 
 ---
 
-## 🔬 Current Work
+## 🔬 Current Projects
 
 ### Moldify
 **Thesis Project**
