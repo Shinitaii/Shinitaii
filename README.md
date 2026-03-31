@@ -19,7 +19,7 @@ A graduating CS student focused on scalable backend systems, and ML pipelines.
 An AI-powered mobile platform helping farmers detect and monitor mold growth through image analysis. 
 
 **Architecture:**
-- **ML:** CNN-ANN multimodal model (PyTorch) for mold classification
+- **ML:** CNN-ANN multimodal model (PyTorch) for mold classification, AWS Lambda + ECR + S3 setup
 - **Backend:** Node.js/Express + TypeScript, Firebase (Auth, Firestore, Storage)
 - **Frontend:** Flutter (mobile), Next.js (website)
  
