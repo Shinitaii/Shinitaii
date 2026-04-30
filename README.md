@@ -1,13 +1,14 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Degree-BS_Computer_Science-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Backend_%26_ML_Systems-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Status-Thesis_in_Progress-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Work-Software_Developer_Intern-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-DevOps,_Backend_%26_Cloud_Computing-yellow?style=flat-square" />
+  <img src="https://img.shields.io/badge/Beyond_Work-Wiki_Infrastructure-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Thesis_Defended-green?style=flat-square" />
 </p>
 
 ---
 
 ## About
-A graduating CS student focused on scalable backend systems, and ML pipelines.
+A software developer focused on backend systems, cloud infrastructure, and DevOps practices.
 
 ---
 
@@ -16,19 +17,20 @@ A graduating CS student focused on scalable backend systems, and ML pipelines.
 ### Moldify
 **Thesis Project**
 
-An AI-powered mobile platform helping farmers detect and monitor mold growth through image analysis. 
+An AI-powered mobile platform helping farmers detect and monitor mold growth through image analysis.
 
 **Architecture:**
-- **ML:** CNN-ANN multimodal model (PyTorch) for mold classification, AWS Lambda + ECR + S3 setup
-- **Backend:** Node.js/Express + TypeScript, Firebase (Auth, Firestore, Storage)
-- **Frontend:** Flutter (mobile), Next.js (website)
- 
+- **ML:** CNN-ANN intermediate fusion (InceptionV3 + custom ANN on morphological features), AWS Lambda + ECR + S3
+- **Backend:** Node.js/Express + TypeScript, Firebase (Auth, Firestore, Storage), Redis caching
+- **Frontend:** Flutter (mobile), Next.js (web)
+- **DevOps:** GitHub Actions CI/CD, Swagger documentation
+
 ---
 
 ### Utilitool
 **Personal Project**
 
-Automated tenant record tracking and utility bill calculation system. Built to solve real apartment management overhead.
+Automated tenant record tracking and utility bill calculation system. Saves ~90% manual calculation time for property managers.
 
 **Stack:** Node.js/Express, Firebase, Next.js
 
@@ -43,7 +45,7 @@ Automated tenant record tracking and utility bill calculation system. Built to s
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,python,php" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,lua,python,java" />
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=windows,linux" />
@@ -59,10 +61,10 @@ Automated tenant record tracking and utility bill calculation system. Built to s
       <img src="https://skillicons.dev/icons?i=nextjs,svelte,flutter,tailwind" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,flask,spring,laravel" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=firebase,mongodb,redis,postgres,mysql" />
+      <img src="https://skillicons.dev/icons?i=firebase,mongodb,redis,postgres" />
     </td>
   </tr>
   <tr>
@@ -88,17 +90,19 @@ Automated tenant record tracking and utility bill calculation system. Built to s
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=jest,postman" />
+      <img src="https://skillicons.dev/icons?i=jest" />
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=godot,unity" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,gitlab" />
+      <img src="https://skillicons.dev/icons?i=git" />
     </td>
   </tr>
 </table>
 
 ---
 
-**Last updated:** March 2026
+## Beyond Work
+
+- **Wiki Infrastructure:** Built Lua module infrastructure, Cargo relational schemas, bot automation (Pywikibot).
