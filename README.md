@@ -1,9 +1,4 @@
 <p align="center">
-  <img width="1023" height="374" alt="687828808_921905490871450_4402641063452047755_n" src="https://github.com/user-attachments/assets/235770ba-de2d-4d13-beb8-c7c32ae30afa" />
-  <i>Even the strongest need rest.</i>
-</p>
-
-<p align="center">
   <a href="https://readme-typing-svg.demolab.com">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=blue&center=true&vCenter=true&width=640&lines=Software+Engineer;Building+fullstack+systems;Leveraging+AI+workflows;" alt="Typing SVG" />
   </a>
@@ -83,3 +78,9 @@ const Shinitaii: User = {
     </tr>
   </table>
 </div>
+
+<p align="center">
+  <img width="1023" height="374" alt="687828808_921905490871450_4402641063452047755_n" src="https://github.com/user-attachments/assets/235770ba-de2d-4d13-beb8-c7c32ae30afa" />
+  <i>Even the strongest needs rest.</i>
+</p>
+
