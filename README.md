@@ -16,14 +16,13 @@
 ```typescript
 const Shinitaii: User = {
   name: "Richmond Glenn Viloria";
-  role: "Software Engineer";
+  role: "Aspiring Software Engineer";
 }
 ```
 
 <h2 align="center">Current Setup</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Work-Software_Engineer-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Focus-Fullstack,_DevOps,_Cloud_Computing-yellow?style=flat-square" />
   <img src="https://img.shields.io/badge/Experiments-Agentic_Workflows-orange?style=flat-square" />
 </p>
